@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello :)
 
 ### 👨‍💻 About Me
 - 🌐 Full-stack Developer passionate about building robust and scalable applications.
@@ -16,9 +16,8 @@
 - 📱 Developing mobile applications for a seamless user experience.
 
 ### 📫 Let's Connect
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aashaypawar/)
+- 🌐 Portfolio: [Your Portfolio Website](https://aashaypawar.github.io)
 
 ### 🤝 Open for Collaboration
 - 💬 Open to collaborating on interesting projects.
