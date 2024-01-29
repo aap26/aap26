@@ -16,8 +16,8 @@
 - 📱 Developing mobile applications for a seamless user experience.
 
 ### 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aashaypawar/)
-- 🌐 Portfolio: [Your Portfolio Website](https://aashaypawar.github.io)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aashaypawar/)
+- 🌐 Portfolio: [Portfolio Website](https://aashaypawar.github.io)
 
 ### 🤝 Open for Collaboration
 - 💬 Open to collaborating on interesting projects.
