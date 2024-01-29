@@ -2,17 +2,16 @@
 
 ### 👨‍💻 About Me
 - 🌐 Full-stack Developer passionate about building robust and scalable applications.
-- 🚀 Currently exploring the realms of machine learning and AI.
+- 🚀 Currently exploring the realms of Andriod and iOS.
 - 📚 Continuous learner and avid reader in the tech space.
 
 ### 🔧 Tech Stack
-- 💻 JavaScript | Python | Java
+- 💻 Java | Kotlin | Swift | Dart | C++ | Python | JavaScript| TypeScript
 - 🌐 Node.js | React | Django
-- 🛢️ MongoDB | PostgreSQL
+- 🛢️ SQL | MongoDB | PostgreSQL | Firebase | DynamoDB
 - 🔍 Elasticsearch | Kibana
 
 ### 🌱 Current Focus
-- 🤖 Exploring the fascinating world of artificial intelligence.
 - 📱 Developing mobile applications for a seamless user experience.
 
 ### 📫 Let's Connect
