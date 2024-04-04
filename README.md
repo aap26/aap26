@@ -23,13 +23,13 @@ src="https://img.shields.io/github/followers/pawar-aa?logo=github&style=for-the-
 <p align="left"> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="ios" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Azure_logo.png" alt="azure" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Top Projects</h3>
-BookIt! 🚖
+<a href="https://github.com/pawar-aa/BookIt-2-0">BookIt!</a>🚖
 <br>
-|---->React: JavaScript
+|----><a href="https://willowy-puffpuff-f6146a.netlify.app/">React</a>: JavaScript
 <br>
-|---->Android: Java, Kotlin
+|----><a href="https://play.google.com/store/apps/details?id=com.aashay.bookmycab">Android</a>: Java, Kotlin
 <br>
-|---->Flask: Python, JavaScript
+|----><a href="https://github.com/pawar-aa/BookIt-Flask">Flask</a>: Python, JavaScript
 <br><br>
 SwiftCash 💰
 <br>
