@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-<img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/><img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/>
+<img src="https://media.licdn.com/dms/image/D4E03AQGyanafMkcTYA/profile-displayphoto-shrink_400_400/0/1697448323307?e=1717632000&v=beta&t=rSGOSxlPVO-zrC2omp-CpY8inMqZFEThBJRQIqqwNp0" alt="java" width="40" height="40"/>
 
 Top 5% of LeetCode & Top 0.5% of Gfg
 <h4>A Full-Stack developer, Android, iOS</h4>
@@ -22,10 +22,36 @@ src="https://img.shields.io/github/followers/pawar-aa?logo=github&style=for-the-
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="ios" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Azure_logo.png" alt="azure" width="40" height="40"/> </a> </p>
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/pawar-aa"><img src="https://github-readme-stats.vercel.app/api?username=pawar-aa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pawar-aa's GitHub stats" /></a>
-
+<h3 align="left">Top Projects</h3>
+BookIt! 🚖
+<br>
+|---->React: JavaScript
+<br>
+|---->Android: Java, Kotlin
+<br>
+|---->Flask: Python, JavaScript
+<br><br>
+SwiftCash 💰
+<br>
+|---->React: JavaScript
+<br>
+|---->Android: Java, Kotlin
+<br><br>
+NearBy 🧡
+<br>
+|---->React/Angular: JavaScript, Node.js, Express.js
+<br>
+|---->Android: Java, Kotlin
+<br>
+|---->iOS: Swift
+<br><br>
+Evently 🎫
+<br>
+|---->React/Angular: JavaScript, Node.js
+<br>
+|---->Android: Java, Kotlin
+<br>
+|---->iOS: Swift
+      
+<br><br>
 <a href="http://www.github.com/aashaypawar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aashaypawar&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
