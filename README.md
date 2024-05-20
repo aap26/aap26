@@ -64,5 +64,15 @@
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pawar.aa@northeastern.edu)
 
+<h2  align="center">Recent Projects</h2>
+
+### SpoonShare
+<img src="https://github.com/pawar-aa/assets/blob/main/SpoonshareMockups.png"> 
+
+<br>
+
+### SwiftCash
+<img src="https://github.com/pawar-aa/assets/blob/main/SwiftCashMockups.png"> 
+
 
 
