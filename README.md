@@ -1,3 +1,9 @@
+### 🚀 Live Projects
+
+[![BookIt](https://img.shields.io/badge/BookIt-Live-success?logo=googlemaps)](https://aap26.github.io/bookit/)
+[![TripMate](https://img.shields.io/badge/TripMate-Live-blue?logo=react)](https://aap26.github.io/tripmate/)
+[![NearBy](https://img.shields.io/badge/NearBy-Live-orange?logo=firebase)](https://aap26.github.io/nearby/)
+
 ### 🔗 Publications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eva-blue?logo=linkedin)](https://allmylinks.com/link/out?id=elgtfh-3t7bd-17vwbqm&accessToken=dx3pVt4j_Kc0agujtavXx2HRJemTsxGL) 
