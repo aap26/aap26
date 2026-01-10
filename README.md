@@ -1,3 +1,14 @@
+![Algorithms](https://img.shields.io/badge/Algorithms-Optimization-blue)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Scalable%20Design-success)
+![Android](https://img.shields.io/badge/Android-Kotlin%20%7C%20Java-green?logo=android)
+![AWS](https://img.shields.io/badge/AWS-Distributed%20Systems-orange?logo=amazonaws)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-Maps%20%7C%20Places-red?logo=google)
+<br>
+![Teaching](https://img.shields.io/badge/Teaching-Content%20Creator-purple)
+![Mentoring](https://img.shields.io/badge/Mentoring-1:1%20Guidance-informational)
+![Career Coach](https://img.shields.io/badge/Career%20Coach-Interview%20Strategy-yellow)
+
+
 ### 🚀 Live Projects
 
 [![BookIt](https://img.shields.io/badge/BookIt-Live-success?logo=googlemaps)](https://aap26.github.io/bookit/)
